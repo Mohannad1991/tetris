@@ -1,0 +1,15 @@
+package umkc.smt.tetris.plugin2;
+
+public class Tetris implements umkc.smt.tetris.plugin1.Tetris {
+
+	public Tetris() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void startGame() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

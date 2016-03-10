@@ -1,0 +1,8 @@
+
+public class TileType implements umkc.smt.tetris.plugin1.TileType {
+
+	public TileType() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

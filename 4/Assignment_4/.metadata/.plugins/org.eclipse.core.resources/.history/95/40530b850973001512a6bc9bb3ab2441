@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Plugin2
+Bundle-SymbolicName: umkc.smt.tetris.plugin2;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: umkc.smt.tetris.plugin2.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ umkc.smt.tetris.plugin1;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Export-Package: umkc.smt.tetris.plugin2
+Import-Package: umkc.smt.tetris.plugin3

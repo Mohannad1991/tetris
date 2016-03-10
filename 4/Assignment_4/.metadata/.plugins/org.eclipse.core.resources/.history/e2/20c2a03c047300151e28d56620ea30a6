@@ -1,0 +1,6 @@
+package umkc.smt.tetris.plugin1;
+
+public interface Tetris {
+	void startGame();
+
+}

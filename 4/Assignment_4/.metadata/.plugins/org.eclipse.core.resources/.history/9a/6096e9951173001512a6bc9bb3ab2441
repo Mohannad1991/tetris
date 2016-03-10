@@ -1,0 +1,11 @@
+package umkc.smt.tetris.plugin1;
+
+import java.awt.Graphics;
+
+//import umkc.smt.tetris.plugin2.TileType;
+
+public interface SidePanel {
+	
+	public void drawTile(TileType type, int x, int y, Graphics g);
+
+}

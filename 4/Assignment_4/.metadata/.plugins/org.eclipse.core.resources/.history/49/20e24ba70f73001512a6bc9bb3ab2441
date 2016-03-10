@@ -1,0 +1,19 @@
+package umkc.smt.tetris.plugin2;
+
+import java.awt.Graphics;
+
+import umkc.smt.tetris.plugin1.TileType;
+
+public class SidePanel implements umkc.smt.tetris.plugin1.SidePanel {
+
+	public SidePanel() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void drawTile(TileType type, int x, int y, Graphics g) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

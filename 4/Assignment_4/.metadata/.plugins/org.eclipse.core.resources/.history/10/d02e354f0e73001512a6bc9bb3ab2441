@@ -1,0 +1,15 @@
+package umkc.smt.tetris.plugin2;
+
+public class BoardPanel implements umkc.smt.tetris.plugin1.BoardPanel {
+
+	public BoardPanel() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public int checkLines() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,15 @@
+package umkc.smt.tetris.plugin3;
+
+public class Clock implements umkc.smt.tetris.plugin1.Clock {
+
+	public Clock() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void reset() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
